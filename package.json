@@ -1,0 +1,27 @@
+{
+  "name": "backalimentos",
+  "version": "1.0.0",
+  "description": "back end hackaton banco de alimetnos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-Chiguano/backAlimentos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kevin-Chiguano/backAlimentos/issues"
+  },
+  "homepage": "https://github.com/Kevin-Chiguano/backAlimentos#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
